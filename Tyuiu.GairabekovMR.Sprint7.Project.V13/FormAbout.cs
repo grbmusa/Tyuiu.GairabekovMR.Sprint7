@@ -31,5 +31,10 @@ namespace Tyuiu.GairabekovMR.Sprint7.Project.V13
             }
             but = !but;
         }
+
+        private void pictureBoxAva_GMR_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
