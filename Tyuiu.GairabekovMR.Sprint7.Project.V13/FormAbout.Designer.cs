@@ -98,7 +98,7 @@ namespace Tyuiu.GairabekovMR.Sprint7.Project.V13
             // 
             this.pictureBoxAva_GMR.BackColor = System.Drawing.Color.DarkTurquoise;
             this.pictureBoxAva_GMR.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxAva_GMR.Image")));
-            this.pictureBoxAva_GMR.Location = new System.Drawing.Point(8, 57);
+            this.pictureBoxAva_GMR.Location = new System.Drawing.Point(8, 58);
             this.pictureBoxAva_GMR.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBoxAva_GMR.Name = "pictureBoxAva_GMR";
             this.pictureBoxAva_GMR.Size = new System.Drawing.Size(238, 271);
